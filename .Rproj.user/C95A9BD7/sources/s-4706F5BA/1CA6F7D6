@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588572697264.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2815153283",
+    "id" : "1CA6F7D6",
+    "lastKnownWriteTime" : 1588604623,
+    "last_content_update" : 1588604623522,
+    "path" : "~/Projects/football_traces/college/002-plot_college_traces.R",
+    "project_path" : "college/002-plot_college_traces.R",
+    "properties" : {
+        "cursorPosition" : "10,70",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
